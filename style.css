@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #afeeee;
+    --primary-color: #21F8F6;
     --secondary-color: #808080;
     --bg-color: #222222;
-    --text-shadow-color: #90f4fd1c;
+    --text-shadow-color:#0640461c;
     --font-family: Orbitron, sans-serif;
   }
 
@@ -136,7 +136,7 @@
     width: 30px;
     height: 30px;
     top: 300px;
-    background: #e80909;
+    background: #FF5733;
     transform: rotate(45deg);
     box-shadow: 5px 5px 15px rgba(249, 209, 209,.5);
     animation: animate 1s linear infinite;
@@ -147,7 +147,7 @@
     content: '';
     position: absolute;
     top:-14px;
-    background: #e80909;
+    background: #FF5733;
     width: 30px;
     height: 15px;
     border-top-right-radius: 15px;
@@ -159,7 +159,7 @@
     content: '';
     position: absolute;
     left:-14px;
-    background: #e80909;
+    background: #FF5733;
     width: 15px;
     height: 30px;
     border-bottom-left-radius: 15px;
